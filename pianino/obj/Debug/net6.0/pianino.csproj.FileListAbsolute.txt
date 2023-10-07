@@ -1,0 +1,14 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfoInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfo.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\bin\Debug\net6.0\pianino.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\bin\Debug\net6.0\pianino.deps.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\bin\Debug\net6.0\pianino.runtimeconfig.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\bin\Debug\net6.0\pianino.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\bin\Debug\net6.0\pianino.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\refint\pianino.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\pianino.genruntimeconfig.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\pianino\pianino\obj\Debug\net6.0\ref\pianino.dll
